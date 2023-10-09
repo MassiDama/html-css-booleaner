@@ -23,6 +23,10 @@
     background-color: yellow;
 }
 
+#foto-description {
+    font-size: small;
+}
+
 table {
     table-layout: fixed;
     width: 1000px;
