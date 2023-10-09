@@ -2,10 +2,17 @@
 #sfondotestata {
     background-image: url(../img/pattern.png);
     background-color: hsl(212.2deg 100% 65.29%);
+    padding-bottom: 0;
 }
 
 #logo {
-    
+    height: 170px;
+    width: 300px;   
+}
+
+
+.grigio {
+    color: gray;
 }
 
 #blue {
@@ -15,3 +22,42 @@
 .evidenziato {
     background-color: yellow;
 }
+
+table {
+    table-layout: fixed;
+    width: 1000px;
+}
+
+#title-table {
+    background-color: hsl(198.18deg 79.2% 50.98%);
+    color: aliceblue;
+}
+
+.content-table {
+    background-color: hsl(192deg 71.43% 82.16%);
+}
+
+  #foto-monitor {
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    text-align: left;
+    width: 240px;
+    height: 150px;
+    padding: 10px;
+    
+
+  }  
+
+  #foto-grafico {
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    color: #FFFFFF;
+    text-align: left;
+    width: 240px;
+    height: 150px;
+    padding: 10px;
+  }
+
+    
+    
