@@ -1,0 +1,17 @@
+
+#sfondotestata {
+    background-image: url(../img/pattern.png);
+    background-color: hsl(212.2deg 100% 65.29%);
+}
+
+#logo {
+    
+}
+
+#blue {
+    color: hsl(198.72deg 79.56% 73.14%);
+}
+
+.evidenziato {
+    background-color: yellow;
+}
